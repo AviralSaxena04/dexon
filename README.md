@@ -27,11 +27,11 @@ DEXON provides a safe, AI-enhanced platform for needer's and actionable tools fo
 
 ### 👧 Needers Dashboard
 
-![Needers Dashboard](https://ibb.co/7xvC6Bxd)
+![Needers Dashboard](https://i.ibb.co/7xvC6Bx/Screenshot-68.png)
 
 ### 👨‍👩‍👧 Guardian Dashboard
 
-![Guardian Dashboard](https://ibb.co/p7BrZFx)
+![Guardian Dashboard](https://i.ibb.co/p7BrZFx/guardian-dashboard.png)
 
 
 ### 👧 Needer's Dashboard
