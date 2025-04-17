@@ -23,6 +23,17 @@ Verbal abuse affects 36% of children globally, often going unnoticed even in dev
 
 DEXON provides a safe, AI-enhanced platform for needer's and actionable tools for parents.
 
+## 🧑‍🤝‍🧑 Dashboards
+
+### 👧 Needers Dashboard
+
+![Needers Dashboard](https://ibb.co/7xvC6Bxd)
+
+### 👨‍👩‍👧 Guardian Dashboard
+
+![Guardian Dashboard](https://ibb.co/p7BrZFx)
+
+
 ### 👧 Needer's Dashboard
 
 - **Press-to-Speak Button**: For expressing fear or discomfort.
